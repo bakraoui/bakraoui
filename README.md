@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bakraoui
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning reactjs, laravel and j2ee
+- 🌱 I’m currently learning reactjs, laravel, j2ee, nodejs, express, Angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
